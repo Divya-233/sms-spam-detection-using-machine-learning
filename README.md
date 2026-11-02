@@ -21,8 +21,7 @@ Technologies Used
 
 Project File
 
-- "Untitled3.ipynb" – Jupyter Notebook containing the project code.
-
+- sms_spam_detection.ipynb – Jupyter Notebook containing the project code
 Project Workflow
 
 1. Import libraries.
